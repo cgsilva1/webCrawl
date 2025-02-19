@@ -1,0 +1,41 @@
+Name: Caroline Silva
+USC ID: 3950043476
+News site crawled: usatoday.com
+Number of threads: 7
+
+Fetch Statistics
+================
+Fetches attempted: 19462
+Fetches succeeded: 19462
+Fetches failed or aborted: 0
+
+Outgoing URLs:
+==============
+Total URLs extracted: 19359
+Unique URLs extracted: 1055618
+Unique URLs within News Site: 880138
+Unique URLs outside News Site: 175480
+
+Status Codes:
+=============
+200 OK: 19462
+301 Moved Permanently: 0
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 0
+
+File Sizes:
+===========
+< 1KB: 7
+1KB ~ <10KB: 1599
+10KB ~ <100KB: 1041
+100KB ~ <1MB: 16244
+>= 1MB: 468
+
+Content Types:
+==============
+text/html: 16791
+image/gif: 0
+image/jpeg: 1318
+image/png: 5
+application/pdf: 0
